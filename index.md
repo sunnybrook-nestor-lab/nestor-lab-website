@@ -1,81 +1,65 @@
 ---
+title: Home
+nav:
+  order: 1
+  tooltip: Home
 ---
 
-# sunnybrook-nestor-lab's Website
+# Interventional Psychiatry Lab
 
-An engaging 1-3 sentence description of your lab.
+Sunnybrook Research Institute · University of Toronto
+{:.center}
 
 {% include section.html %}
 
-## Highlights
+## Our Research
 
-{% capture text %}
+We investigate novel neuromodulation, metabolic, and psychedelic approaches to understanding and treating psychiatric disorders. Our work spans from mechanistic brain mapping to clinical trials, with a focus on treatment-resistant depression and related conditions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+_Research statement placeholder — to be written by Dr. Nestor._
+{:.center}
 
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+{% include section.html %}
 
-{% endcapture %}
+## Research Platforms
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
+{% include list.html data="projects" component="card" %}
 
-{% capture text %}
+{% include section.html %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## Our Team
 
 {%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
+  include figure.html
+  image="images/placeholder-team.jpg"
+  caption="The Nestor Lab team at Sunnybrook Research Institute"
+  width="100%"
 %}
 
-{% endcapture %}
+[Meet our team](team){:.center}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
+{% include section.html %}
 
-{% capture text %}
+## Funding & Acknowledgements
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+_We are grateful to the agencies and organizations that support and fund our research._
+{:.center}
 
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+_Funding logos to be added._
+{:.center}
 
-{% endcapture %}
+{% include section.html %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+## Contact
+
+Interventional Psychiatry Lab
+{:.center}
+
+Sunnybrook Health Sciences Centre
+{:.center}
+
+2075 Bayview Ave, Toronto, ON M4N 3M5
+{:.center}
+
+[Contact us](contact)
+{:.center}

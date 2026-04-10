@@ -1,47 +1,43 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Metabolic-Neuromodulation Platform
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/placeholder-research.jpg
+  link: research/#metabolic-neuromodulation-platform
+  description: Investigating the intersection of metabolic interventions and neuromodulation for treatment-resistant depression, including the ALIGN trial (adjunctive ketogenic diet + iTBS).
   tags:
-    - resource
+    - iTBS
+    - Ketogenic Diet
+    - Metabolic Psychiatry
+    - qEEG
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Causal Brain Mapping Studies
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/placeholder-research.jpg
+  link: research/#causal-brain-mapping-studies
+  description: Using interleaved TMS-fMRI/MRS to map causal brain circuits and understand the mechanisms of neuromodulation therapies.
   tags:
-    - resource
+    - TMS-fMRI
+    - MRS
+    - Brain Mapping
+    - Neuroimaging
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Advanced Neuromodulation Trials
+  group: featured
+  image: images/placeholder-research.jpg
+  link: research/#advanced-neuromodulation-trials
+  description: Novel neuromodulation clinical trials for late-life depression (LLD) and post-concussion syndrome (PCS), with a focus on population-specific approaches.
   tags:
-    - resource
-    - publication
+    - Late-Life Depression
+    - Post-Concussion Syndrome
+    - Clinical Trials
+    - TMS
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Psychedelics Platform (EMBRACE)
+  group: featured
+  image: images/placeholder-research.jpg
+  link: research/#psychedelics-platform-embrace
+  description: Exploring psilocybin-assisted therapy for depression through the EMBRACE study, investigating psychedelic interventions within a clinical neuroscience framework.
   tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - Psilocybin
+    - Psychedelics
+    - Depression
+    - EMBRACE

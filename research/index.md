@@ -1,27 +1,58 @@
 ---
 title: Research
 nav:
-  order: 1
-  tooltip: Published works
+  order: 2
+  tooltip: Our Research
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+Our research spans four interconnected platforms, united by the goal of advancing precision approaches to psychiatric treatment through neuromodulation, metabolic interventions, brain mapping, and psychedelic therapies.
 
 {% include section.html %}
 
-## All
+## Metabolic-Neuromodulation Platform
 
-{% include search-box.html %}
+The Metabolic-Neuromodulation Platform investigates how metabolic interventions can enhance the effects of brain stimulation therapies for treatment-resistant depression.
 
-{% include search-info.html %}
+_Detailed description to be written by platform lead._
 
-{% include list.html data="citations" component="citation" style="rich" %}
+**Key studies:**
+- **ALIGN Trial** — Adjunctive ketogenic diet combined with intermittent theta-burst stimulation (iTBS) for treatment-resistant depression
+- Metabolic biomarkers of neuromodulation treatment response
+- qEEG correlates of iTBS response
+
+{%
+  include figure.html
+  image="images/placeholder-research.jpg"
+  caption="Metabolic-Neuromodulation Platform"
+  width="100%"
+%}
+
+### Relevant Publications
+
+{% include list.html data="citations" component="citation" filter="sean_nestor == true" %}
+
+{% include section.html %}
+
+## Causal Brain Mapping Studies
+
+Using interleaved TMS-fMRI and MRS, this platform maps the causal circuits underlying neuromodulation therapies, providing mechanistic insight into how brain stimulation works.
+
+_Detailed description to be written by platform lead._
+
+{% include section.html %}
+
+## Advanced Neuromodulation Trials
+
+This platform houses clinical trials applying novel neuromodulation protocols to specific populations, including late-life depression (LLD) and post-concussion syndrome (PCS).
+
+_Detailed description to be written by platform lead._
+
+{% include section.html %}
+
+## Psychedelics Platform (EMBRACE)
+
+The EMBRACE study explores psilocybin-assisted therapy for depression, investigating psychedelic interventions within a clinical neuroscience framework.
+
+_Detailed description to be written by platform lead._

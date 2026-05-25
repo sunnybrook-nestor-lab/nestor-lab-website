@@ -9,11 +9,16 @@ nav:
 
 ## Interventional Psychiatry Lab
 
-Sunnybrook Health Sciences Centre
-2075 Bayview Ave
-Toronto, ON M4N 3M5
+Sunnybrook Health Sciences Centre<br>
+2075 Bayview Avenue<br>
+Toronto, ON  M4N 3M5<br>
+Room G1-313
 
-_Room/suite number to be confirmed._
+**Email:** [sean.nestor@sunnybrook.ca](mailto:sean.nestor@sunnybrook.ca)
+
+{% include section.html %}
+
+<iframe ...></iframe>   ← leave your existing iframe line exactly as it is
 
 **Email:** [sean.nestor@sunnybrook.ca](mailto:sean.nestor@sunnybrook.ca)
 

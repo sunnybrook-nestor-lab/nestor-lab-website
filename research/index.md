@@ -31,7 +31,7 @@ _Detailed description to be written by platform lead._
 
 ### Relevant Publications
 
-{% include list.html data="citations" component="citation" filter="sean_nestor == true" %}
+{% include list.html data="citations" component="citation" %}
 
 {% include section.html %}
 

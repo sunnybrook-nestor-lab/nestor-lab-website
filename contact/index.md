@@ -16,13 +16,7 @@ Room G1-313
 
 **Email:** [sean.nestor@sunnybrook.ca](mailto:sean.nestor@sunnybrook.ca)
 
-{% include section.html %}
-
-<iframe ...></iframe>   ← leave your existing iframe line exactly as it is
-
-**Email:** [sean.nestor@sunnybrook.ca](mailto:sean.nestor@sunnybrook.ca)
-
-**Phone:** _To be confirmed_
+**Phone:** (416) 480-6100 ext: 4085
 
 {% include section.html %}
 

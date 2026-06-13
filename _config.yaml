@@ -71,3 +71,18 @@ jekyll-spaceship:
     src: []
   mermaid-processor:
     src: []
+
+    # sass settings
+sass:
+  sass_dir: _styles
+
+# force jekyll to include certain files/folders
+include:
+  - _styles
+  - _scripts
+
+# force jekyll to exclude certain files/folders
+exclude:
+  - README.md
+  - LICENSE.md
+  - CITATION.cff

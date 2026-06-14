@@ -1,2 +1,371 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
-[]
+
+- id: doi:10.1016/j.brs.2025.102997
+  title: A novel interleaved TMS-MRS approach with standard MRI hardware
+  authors:
+  - Maria Vasileiadi
+  - Christopher B. Pople
+  - Peter Truong
+  - Benjamin Davidson
+  - Clement Hamani
+  - Peter Giacobbe
+  - Nir Lipsman
+  - Martin Tik
+  - Jamie Near
+  - Sean M. Nestor
+  publisher: Brain Stimulation
+  date: '2026-01-01'
+  link: https://doi.org/hbwktm
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biopsych.2025.03.014
+  title: "From Brain Network Dysfunction to Neuropsychiatric Symptoms in Alzheimer\u2019\
+    s Disease"
+  authors:
+  - Maria Vasileiadi
+  - Sean Michael Nestor
+  publisher: Biological Psychiatry
+  date: '2025-06-01'
+  link: https://doi.org/hbwktn
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1192/j.eurpsy.2025.10049
+  title: Clinical effects and correlates of standard rTMS and theta burst stimulation
+    (TBS) on suicidal ideation in late-life depression
+  authors:
+  - Hyewon H. Lee
+  - "Katharina G\xF6ke"
+  - Rafae A. Wathra
+  - Benoit Mulsant
+  - Alisson P. Trevizol
+  - Jonathan Downar
+  - Shawn M. McClintock
+  - Sean M. Nestor
+  - Yoshihiro Noda
+  - Tarek K. Rajji
+  - Zafiris J. Daskalakis
+  - Daniel M. Blumberger
+  publisher: European Psychiatry
+  date: '2025-01-01'
+  link: https://doi.org/hbwktp
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.psychres.2024.116125
+  title: 'IN Esketamine and IV Ketamine: Results of a multi-site observational study
+    assessing the effectiveness and tolerability of two novel therapies for treatment-resistant
+    depression'
+  authors:
+  - Gilmar Gutierrez
+  - Jennifer Swainson
+  - Nisha Ravindran
+  - Raymond W. Lam
+  - Peter Giacobbe
+  - Ganapathy Karthikeyan
+  - Annette Kowara
+  - "Andr\xE9 Do"
+  - Anusha Baskaran
+  - Sean Michael Nestor
+  - Melody J.Y. Kang
+  - Aleksandar Biorac
+  - Gustavo Vazquez
+  publisher: Psychiatry Research
+  date: '2024-10-01'
+  link: https://doi.org/hbwktq
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.psychres.2024.115822
+  title: Predictors of remission after repetitive transcranial magnetic stimulation
+    for the treatment of late-life depression
+  authors:
+  - "Katharina G\xF6ke"
+  - Alisson P. Trevizol
+  - Clement Ma
+  - Linda Mah
+  - Tarek K. Rajji
+  - Zafiris J. Daskalakis
+  - Jonathan Downar
+  - Shawn M. McClintock
+  - Sean M. Nestor
+  - Yoshihiro Noda
+  - Benoit H. Mulsant
+  - Daniel M. Blumberger
+  publisher: Psychiatry Research
+  date: '2024-04-01'
+  link: https://doi.org/hbwktr
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.psychres.2023.115525
+  title: Seasonal pattern and depression outcomes from repetitive transcranial magnetic
+    stimulation
+  authors:
+  - Enoch Ng
+  - Sean M. Nestor
+  - Jennifer S. Rabin
+  - Clement Hamani
+  - Nir Lipsman
+  - Peter Giacobbe
+  publisher: Psychiatry Research
+  date: '2023-11-01'
+  link: https://doi.org/hbwkts
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciadv.adc9970
+  title: Deep brain stimulation of the subgenual cingulum and uncinate fasciculus
+    for the treatment of posttraumatic stress disorder
+  authors:
+  - Clement Hamani
+  - Benjamin Davidson
+  - Felipe Corchs
+  - Agessandro Abrahao
+  - Sean M. Nestor
+  - Jennifer S. Rabin
+  - Alexander J. Nyman
+  - Liane Phung
+  - Maged Goubran
+  - Anthony Levitt
+  - Omid Talakoub
+  - Peter Giacobbe
+  - Nir Lipsman
+  publisher: Science Advances
+  date: '2022-12-02'
+  link: https://doi.org/hbwktt
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jalz.2018.04.005
+  title: "<i>APOE</i>\u2010\u03B54 associates with hippocampal volume, learning, and\
+    \ memory across the spectrum of Alzheimer's disease and dementia with Lewy bodies"
+  authors:
+  - Usman Saeed
+  - Saira S. Mirza
+  - Bradley J. MacIntosh
+  - Nathan Herrmann
+  - Julia Keith
+  - Joel Ramirez
+  - Sean M. Nestor
+  - Qinggang Yu
+  - Jo Knight
+  - Walter Swardfager
+  - Steven G. Potkin
+  - Ekaterina Rogaeva
+  - "Peter St. George\u2010Hyslop"
+  - Sandra E. Black
+  - Mario Masellis
+  publisher: Alzheimer's &amp; Dementia
+  date: '2018-05-18'
+  link: https://doi.org/gd9smx
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neurobiolaging.2018.01.025
+  title: Reduced substantia innominata volume mediates contributions of microvascular
+    and macrovascular disease to cognitive deficits in Alzheimer's disease
+  authors:
+  - Gurpreet Jaswal
+  - Walter Swardfager
+  - Fu-qiang Gao
+  - Sean M. Nestor
+  - Anoop Ganda
+  - Hugo Cogo-Moreira
+  - Demetrios J. Sahlas
+  - Donald T. Stuss
+  - Alan Moody
+  - Sandra E. Black
+  publisher: Neurobiology of Aging
+  date: '2018-06-01'
+  link: https://doi.org/hbwktv
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1212/WNL.0000000000004983
+  title: The effect of white matter hyperintensities on verbal memory
+  authors:
+  - Walter Swardfager
+  - Hugo Cogo-Moreira
+  - Mario Masellis
+  - Joel Ramirez
+  - Nathan Herrmann
+  - Jodi D. Edwards
+  - Mahwesh Saleem
+  - Parco Chan
+  - Di Yu
+  - Sean M. Nestor
+  - Christopher J.M. Scott
+  - Melissa F. Holmes
+  - Demetrios J. Sahlas
+  - Alexander Kiss
+  - Paul I. Oh
+  - Stephen C. Strother
+  - Fuqiang Gao
+  - Bojana Stefanovic
+  - Julia Keith
+  - Sean Symons
+  - Richard H. Swartz
+  - "Krista L. Lanct\xF4t"
+  - Donald T. Stuss
+  - Sandra E. Black
+  publisher: Neurology
+  date: '2018-02-20'
+  link: https://doi.org/gr9kvz
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/JAD-170238
+  title: 'Antihypertensive Treatment is associated with MRI-Derived Markers of Neurodegeneration
+    and Impaired Cognition: A Propensity-Weighted Cohort Study'
+  authors:
+  - Jodi D. Edwards
+  - Joel Ramirez
+  - Brandy L. Callahan
+  - Sheldon W. Tobe
+  - Paul Oh
+  - Courtney Berezuk
+  - "Krista Lanct\xF4t"
+  - Walter Swardfager
+  - Sean Nestor
+  - Alexander Kiss
+  - Stephen Strother
+  - Sandra E. Black
+  publisher: "Journal of Alzheimer\u2019s Disease"
+  date: '2017-07-17'
+  link: https://doi.org/gbr9nk
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jalz.2016.12.007
+  title: Small vessel disease is linked to disrupted structural network covariance
+    in Alzheimer's disease
+  authors:
+  - Sean M. Nestor
+  - "Bratislav Mi\u0161i\u0107"
+  - Joel Ramirez
+  - Jiali Zhao
+  - Simon J. Graham
+  - Nicolaas P.L.G. Verhoeff
+  - Donald T. Stuss
+  - Mario Masellis
+  - Sandra E. Black
+  publisher: Alzheimer's &amp; Dementia
+  date: '2017-01-27'
+  link: https://doi.org/hbwktw
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/JAD-140588
+  title: 'Cholinergic Subcortical Hyperintensities in Alzheimer''s Disease Patients
+    from the Sunnybrook Dementia Study: Relationships with Cognitive Dysfunction and
+    Hippocampal Atrophy'
+  authors:
+  - Alicia A. McNeely
+  - Joel Ramirez
+  - Sean M. Nestor
+  - Jiali Zhao
+  - Fuqiang Gao
+  - Alex Kiss
+  - Donald T. Stuss
+  - Sandra E. Black
+  publisher: Journal of Alzheimer's Disease
+  date: '2014-12-02'
+  link: https://doi.org/hbwktx
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnagi.2015.00131
+  title: 'Gray matter blood flow and volume are reduced in association with white
+    matter hyperintensity lesion burden: a cross-sectional MRI study'
+  authors:
+  - David E. Crane
+  - Sandra E. Black
+  - Anoop Ganda
+  - David J. Mikulis
+  - Sean M. Nestor
+  - Manus J. Donahue
+  - Bradley J. MacIntosh
+  publisher: Frontiers in Aging Neuroscience
+  date: '2015-07-08'
+  link: https://doi.org/hbwktz
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2012.10.081
+  title: A direct morphometric comparison of five labeling protocols for multi-atlas
+    driven automatic segmentation of the hippocampus in Alzheimer's disease
+  authors:
+  - Sean M. Nestor
+  - Erin Gibson
+  - Fu-Qiang Gao
+  - Alex Kiss
+  - Sandra E. Black
+  publisher: NeuroImage
+  date: '2013-02-01'
+  link: https://doi.org/f45xk9
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neurobiolaging.2013.01.009
+  title: Is encroachment of the carotid termination into the substantia innominata
+    associated with its atrophy and cognition in Alzheimer's disease?
+  authors:
+  - Fu-qiang Gao
+  - Jacqueline A. Pettersen
+  - Christian Bocti
+  - Sean M. Nestor
+  - Alex Kiss
+  - Sandra E. Black
+  publisher: Neurobiology of Aging
+  date: '2013-07-01'
+  link: https://doi.org/hbwkt2
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jalz.2012.09.004
+  title: Erratum
+  authors: []
+  publisher: Alzheimer's &amp; Dementia
+  date: '2012-11-01'
+  link: https://doi.org/f2h2px
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/brain/awn146
+  title: Ventricular enlargement as a possible measure of Alzheimer's disease progression
+    validated using the Alzheimer's disease neuroimaging initiative database
+  authors:
+  - S. M. Nestor
+  - R. Rupsingh
+  - M. Borrie
+  - M. Smith
+  - V. Accomazzi
+  - J. L. Wells
+  - J. Fogarty
+  - R. Bartha
+  publisher: Brain
+  date: '2008-08-21'
+  link: https://doi.org/ck797x
+  orcid: 0000-0002-8848-5027
+  sean-nestor: true
+  plugin: orcid.py
+  file: orcid.yaml

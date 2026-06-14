@@ -29,13 +29,6 @@ _Research statement placeholder — to be written by Dr. Nestor._
 
 ## Our Team
 
-{%
-  include figure.html
-  image="images/placeholder-team.jpg"
-  caption="The Nestor Lab team at Sunnybrook Research Institute"
-  width="100%"
-%}
-
 [Meet our team](team){:.center}
 
 {% include section.html %}

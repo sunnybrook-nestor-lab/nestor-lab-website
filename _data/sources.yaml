@@ -1,24 +1,40 @@
 # Additional sources can be added here manually
 # The ORCID file handles auto-importing Dr. Nestor's publications
-# Example:
-# - id: doi:10.1234/example
-#   tags:
-#     - Metabolic-Neuromodulation
-- id: doi:10.1016/j.jad.2025.121119      # Hamani 2026, DBS for PTSD long-term outcome
+- id: doi:10.1016/j.jad.2025.121119       # Hamani 2026, DBS for PTSD long-term outcome
 - id: doi:10.1016/j.neubiorev.2026.106573 # Syed 2026, psilocybin-assisted therapy meta-analysis
-- id: doi:10.1016/j.psychres.2025.116929 # Syed 2026, psychedelics/MDMA adverse events (VigiBase)
-- id: doi:10.1016/j.jad.2025.120606      # Silver 2026, glucose biomarkers & antidepressant response
-- id: doi:10.1016/j.bpsc.2026.01.011     # Davidson 2026, MRgFUS capsulotomy changes
-- id: doi:10.1016/j.brs.2025.102997      # Vasileiadi 2026, interleaved TMS-MRS method
-- id: doi:10.1016/j.jad.2025.120390      # Sewell 2026, patient-centered DBS outcomes in PTSD
-- id: doi:10.1016/j.brs.2025.10.020      # Adler 2025, trajectories of bilateral rTMS in LLD
-- id: doi:10.1038/s41398-025-03728-2     # Wiseman 2025, speech measures & depression
-- id: doi:10.1038/s44220-025-00503-6     # Mollica 2025, network basis of post-concussion symptoms
-- id: doi:10.1002/ajmg.b.33038           # Franklin 2025, genetics of ECT/TMS/ketamine response
-- id: doi:10.1177/07067437251342277      # Ng 2025, comorbid PTSD & rTMS for depression
-- id: doi:10.1007/s00787-025-02683-z     # Ng 2025, dTMS/iTBS youth vs adults
-- id: doi:10.1177/20420986251347360      # Gutierrez 2025, esketamine abuse liability
-- id: doi:10.1192/j.eurpsy.2025.10049    # Lee 2025, rTMS/TBS & suicidal ideation in LLD
-- id: doi:10.3389/fpsyt.2025.1565881     # Mirjalili 2025, tACS theta-gamma in MCI
-- id: doi:10.1016/j.biopsych.2025.03.014 # Vasileiadi 2025, brain network dysfunction in AD
-- id: doi:10.1177/07067437251315515      # Göke 2025, cognitive outcomes after TMS in LLD
+  tags:
+    - Psychedelics
+- id: doi:10.1016/j.psychres.2025.116929  # Syed 2026, psychedelics/MDMA adverse events (VigiBase)
+  tags:
+    - Psychedelics
+- id: doi:10.1016/j.jad.2025.120606       # Silver 2026, glucose biomarkers & antidepressant response
+  tags:
+    - Metabolic-Neuromodulation
+- id: doi:10.1016/j.bpsc.2026.01.011      # Davidson 2026, MRgFUS capsulotomy changes
+- id: doi:10.1016/j.brs.2025.102997       # Vasileiadi 2026, interleaved TMS-MRS method
+  tags:
+    - Causal-Brain-Mapping
+- id: doi:10.1016/j.jad.2025.120390       # Sewell 2026, patient-centered DBS outcomes in PTSD
+- id: doi:10.1016/j.brs.2025.10.020       # Adler 2025, trajectories of bilateral rTMS in LLD
+  tags:
+    - Advanced-Neuromodulation
+- id: doi:10.1038/s41398-025-03728-2      # Wiseman 2025, speech measures & depression
+- id: doi:10.1038/s44220-025-00503-6      # Mollica 2025, network basis of post-concussion symptoms
+  tags:
+    - Advanced-Neuromodulation
+- id: doi:10.1002/ajmg.b.33038            # Franklin 2025, genetics of ECT/TMS/ketamine response
+- id: doi:10.1177/07067437251342277       # Ng 2025, comorbid PTSD & rTMS for depression
+  tags:
+    - Advanced-Neuromodulation
+- id: doi:10.1007/s00787-025-02683-z      # Ng 2025, dTMS/iTBS youth vs adults
+  tags:
+    - Advanced-Neuromodulation
+- id: doi:10.1177/20420986251347360       # Gutierrez 2025, esketamine abuse liability
+- id: doi:10.1192/j.eurpsy.2025.10049     # Lee 2025, rTMS/TBS & suicidal ideation in LLD
+  tags:
+    - Advanced-Neuromodulation
+- id: doi:10.3389/fpsyt.2025.1565881      # Mirjalili 2025, tACS theta-gamma in MCI
+- id: doi:10.1016/j.biopsych.2025.03.014  # Vasileiadi 2025, brain network dysfunction in AD
+- id: doi:10.1177/07067437251315515       # Göke 2025, cognitive outcomes after TMS in LLD
+  tags:
+    - Advanced-Neuromodulation

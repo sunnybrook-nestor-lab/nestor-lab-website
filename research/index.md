@@ -31,7 +31,7 @@ _Detailed description to be written by platform lead._
 
 ### Relevant Publications
 
-{% include list.html data="citations" component="citation" %}
+{% include list.html data="citations" component="citation" filter="tags && tags.include?('Metabolic-Neuromodulation')" %}
 
 {% include section.html %}
 
@@ -39,20 +39,24 @@ _Detailed description to be written by platform lead._
 
 Using interleaved TMS-fMRI and MRS, this platform maps the causal circuits underlying neuromodulation therapies, providing mechanistic insight into how brain stimulation works.
 
-_Detailed description to be written by platform lead._
+### Relevant Publications
 
+{% include list.html data="citations" component="citation" filter="tags && tags.include?('Causal-Brain-Mapping')" %}
 {% include section.html %}
 
 ## Advanced Neuromodulation Trials
 
 This platform houses clinical trials applying novel neuromodulation protocols to specific populations, including late-life depression (LLD) and post-concussion syndrome (PCS).
 
-_Detailed description to be written by platform lead._
+### Relevant Publications
 
+{% include list.html data="citations" component="citation" filter="tags && tags.include?('Advanced-Neuromodulation')" %}
 {% include section.html %}
 
 ## Psychedelics Platform (EMBRACE)
 
 The EMBRACE study explores psilocybin-assisted therapy for depression, investigating psychedelic interventions within a clinical neuroscience framework.
 
-_Detailed description to be written by platform lead._
+### Relevant Publications
+
+{% include list.html data="citations" component="citation" filter="tags && tags.include?('Psychedelics')" %}

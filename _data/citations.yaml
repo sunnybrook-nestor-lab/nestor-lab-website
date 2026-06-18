@@ -18,8 +18,8 @@
   link: https://doi.org/hbwktm
   orcid: 0000-0002-8848-5027
   sean-nestor: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.biopsych.2025.03.014
   title: "From Brain Network Dysfunction to Neuropsychiatric Symptoms in Alzheimer\u2019\
     s Disease"
@@ -31,8 +31,8 @@
   link: https://doi.org/hbwktn
   orcid: 0000-0002-8848-5027
   sean-nestor: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1192/j.eurpsy.2025.10049
   title: Clinical effects and correlates of standard rTMS and theta burst stimulation
     (TBS) on suicidal ideation in late-life depression
@@ -54,8 +54,8 @@
   link: https://doi.org/hbwktp
   orcid: 0000-0002-8848-5027
   sean-nestor: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.psychres.2024.116125
   title: 'IN Esketamine and IV Ketamine: Results of a multi-site observational study
     assessing the effectiveness and tolerability of two novel therapies for treatment-resistant
@@ -369,3 +369,310 @@
   sean-nestor: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.jad.2025.121119
+  title: Long-term outcome of subgenual cingulum and uncinate fasciculus deep brain
+    stimulation for the treatment of post-traumatic stress disorder
+  authors:
+  - Clement Hamani
+  - Anusha Baskaran
+  - Tulip Marawi
+  - Felipe Corchs
+  - Agessandro Abrahao
+  - Sean M. Nestor
+  - Jennifer S. Rabin
+  - Peter Giacobbe
+  - Nir Lipsman
+  - Benjamin Davidson
+  publisher: Journal of Affective Disorders
+  date: '2026-04-01'
+  link: https://doi.org/hb77bq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neubiorev.2026.106573
+  title: 'Methodological moderators of psilocybin-assisted therapy in depression:
+    A systematic review and meta-analysis'
+  authors:
+  - Omer A. Syed
+  - Benjamin Tsang
+  - Sean M. Nestor
+  - Nir Lipsman
+  - Muhammad Ishrat Husain
+  - Fahad Alam
+  - Peter Giacobbe
+  publisher: Neuroscience &amp; Biobehavioral Reviews
+  date: '2026-04-01'
+  link: https://doi.org/hb77br
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.psychres.2025.116929
+  title: 'Adverse events associated with classic psychedelics and MDMA: a real-world
+    population-based study using the WHO pharmacovigilance database (VigiBase)'
+  authors:
+  - Omer A. Syed
+  - Sean M. Nestor
+  - Muhammad Ishrat Husain
+  - Mark Sinyor
+  - Fahad Alam
+  - Peter Giacobbe
+  publisher: Psychiatry Research
+  date: '2026-03-01'
+  link: https://doi.org/hb77bs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jad.2025.120606
+  title: 'Glucose biomarkers and antidepressant response: A scoping review of interventions
+    targeting major depressive disorder and metabolic dysfunction'
+  authors:
+  - Dara Silver
+  - Maria Vasileiadi
+  - Maggie S. Stewart
+  - Jennifer S. Rabin
+  - Peter Giacobbe
+  - Maged Goubran
+  - Walter Swardfager
+  - Nir Lipsman
+  - Sean M. Nestor
+  publisher: Journal of Affective Disorders
+  date: '2026-02-01'
+  link: https://doi.org/hb77bt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bpsc.2026.01.011
+  title: "Microstructural, Morphological, and Metabolic Changes Following Magnetic\
+    \ Resonance\u2013Guided Focused Ultrasound Capsulotomy"
+  authors:
+  - Benjamin Davidson
+  - Andrew Clappison
+  - Karim Mithani
+  - Leonardo Favi Bocca
+  - Peter Giacobbe
+  - Sean Nestor
+  - Ying Meng
+  - Julie Ottoy
+  - Jennifer S. Rabin
+  - Matthew Burke
+  - Kamil Uludag
+  - Clement Hamani
+  - Nir Lipsman
+  - Maged Goubran
+  publisher: 'Biological Psychiatry: Cognitive Neuroscience and Neuroimaging'
+  date: '2026-06-01'
+  link: https://doi.org/hb77bv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jad.2025.120390
+  title: 'Beyond symptom scales: Patient-centered insights into deep brain stimulation
+    outcomes in treatment-refractory post-traumatic stress disorder'
+  authors:
+  - Isabella J. Sewell
+  - Rohina Kumar
+  - Alexander J. Nyman
+  - Georgia Gopinath
+  - Shayan Sivadas
+  - Anusha Baskaran
+  - Peter Giacobbe
+  - Sean M. Nestor
+  - Benjamin Davidson
+  - Nir Lipsman
+  - Clement Hamani
+  - Jennifer S. Rabin
+  publisher: Journal of Affective Disorders
+  date: '2026-01-01'
+  link: https://doi.org/hb77bw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.brs.2025.10.020
+  title: Trajectories of response to bilateral rTMS in late-life depression
+  authors:
+  - Erin Adler
+  - Daniel M. Blumberger
+  - Xiao Chen
+  - Hyewon H. Lee
+  - Sean M. Nestor
+  - Jonathan Downar
+  - Benoit Mulsant
+  - Tarek K. Rajji
+  - Yoshihiro Noda
+  - Zafiris J. Daskalakis
+  - Tyler S. Kaster
+  publisher: Brain Stimulation
+  date: '2025-11-01'
+  link: https://doi.org/hb77bx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41398-025-03728-2
+  title: Objective speech measures capture depressive symptoms and associated cognitive
+    difficulties
+  authors:
+  - Micaela Wiseman
+  - Rachel Yep
+  - Madeline Wood Alexander
+  - Christopher B. Pople
+  - Lucas Perri
+  - Georgia Gopinath
+  - Maria Vasileiadi
+  - Jessica Robin
+  - Michael J. Spilka
+  - William Simpson
+  - Yana Yunusova
+  - Douglas P. Munoz
+  - Brian C. Coe
+  - Donald Brien
+  - Sean Nestor
+  - Nir Lipsman
+  - Peter Giacobbe
+  - Jennifer S. Rabin
+  publisher: Translational Psychiatry
+  date: '2025-11-17'
+  link: https://doi.org/hb77bz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s44220-025-00503-6
+  title: 'The network-based underpinnings of persisting symptoms after concussion:
+    a multimodal neuroimaging meta-analysis'
+  authors:
+  - Adriano Mollica
+  - Robin F. H. Cash
+  - Carl Froilan D. Leochico
+  - Peter Giacobbe
+  - Isabella J. Sewell
+  - Andrew Zalesky
+  - Jennifer S. Rabin
+  - Maged Goubran
+  - Simon J. Graham
+  - Benjamin Davidson
+  - Fa-Hsuan Lin
+  - Nir Lipsman
+  - Clement Hamani
+  - Matthew J. Burke
+  - Sean M. Nestor
+  publisher: Nature Mental Health
+  date: '2025-09-23'
+  link: https://doi.org/hb77b2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajmg.b.33038
+  title: Genetics of Response to <scp>ECT</scp>, <scp>TMS</scp>, Ketamine and Esketamine
+  authors:
+  - Clio E. Franklin
+  - Murat Altinay
+  - Kala Bailey
+  - Mahendra T. Bhati
+  - Brent R. Carr
+  - Susan K. Conroy
+  - Khurshid Khurshid
+  - William M. McDonald
+  - Brian J. Mickey
+  - James W. Murrough
+  - Sean M. Nestor
+  - "Thomas Nickl\u2010Jockschat"
+  - Irving M. Reti
+  - Gerard Sanacora
+  - Nicholas T. Trapp
+  - Biju Viswanath
+  - Jesse H. Wright
+  - Peter P. Zandi
+  - James B. Potash
+  publisher: 'American Journal of Medical Genetics Part B: Neuropsychiatric Genetics'
+  date: '2025-06-17'
+  link: https://doi.org/hb77b3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1177/07067437251342277
+  title: "Impact of Comorbid Posttraumatic Stress-Related Symptoms on Repetitive Transcranial\
+    \ Magnetic Stimulation for Depression in Civilians: Incidence des sympt\xF4mes\
+    \ du trouble de stress post-traumatique (TSPT) comorbide sur la stimulation magn\xE9\
+    tique transcr\xE2nienne r\xE9p\xE9titive pour traiter la d\xE9pression"
+  authors:
+  - Enoch Ng
+  - Sean M. Nestor
+  - Jennifer S. Rabin
+  - Clement Hamani
+  - Nir Lipsman
+  - Peter Giacobbe
+  publisher: The Canadian Journal of Psychiatry
+  date: '2025-05-30'
+  link: https://doi.org/hb77b4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00787-025-02683-z
+  title: 'Deep transcranial magnetic stimulation and intermittent theta burst stimulation
+    in youth compared to adults with depression: a retrospective analysis of open-label
+    treatment'
+  authors:
+  - Enoch Ng
+  - Karen Wang
+  - Sean M. Nestor
+  - Nir Lipsman
+  - Peter Giacobbe
+  publisher: European Child &amp; Adolescent Psychiatry
+  date: '2025-02-28'
+  link: https://doi.org/hb77b5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1177/20420986251347360
+  title: 'Abuse liability for esketamine in a cohort of patients undergoing an acute
+    treatment course to manage treatment-resistant depression: a secondary analysis
+    of an observational study in real-world clinical practicee'
+  authors:
+  - Gilmar Gutierrez
+  - Gustavo Vazquez
+  - Nisha Ravindran
+  - Raymond W. Lam
+  - Peter Giacobbe
+  - Karthikeyan Ganapathy
+  - Annette Kowara
+  - "Andr\xE9 Do"
+  - Anusha Baskaran
+  - Sean Michael Nestor
+  - Jennifer Swainson
+  publisher: Therapeutic Advances in Drug Safety
+  date: '2025-06-19'
+  link: https://doi.org/hb77b6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fpsyt.2025.1565881
+  title: Individualized frequency and montage tACS to engage theta-gamma coupling
+    and enhance working memory in mild cognitive impairment
+  authors:
+  - Mina Mirjalili
+  - Iryna S. Palamarchuk
+  - Heather Brooks
+  - Reza Zomorrodi
+  - Ashley Melichercik
+  - Wei Wang
+  - Sean M. Nestor
+  - Daniel M. Blumberger
+  - Abhishek Datta
+  - Christopher Bowie
+  - Bernadette Mdawar
+  - Kullervo Hynynen
+  - Sanjeev Kumar
+  - Tarek K. Rajji
+  publisher: Frontiers in Psychiatry
+  date: '2025-06-02'
+  link: https://doi.org/hb77b7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1177/07067437251315515
+  title: "Cognitive Outcomes After Transcranial Magnetic Stimulation for the Treatment\
+    \ of Late-Life Depression: R\xE9sultats cognitifs apr\xE8s la stimulation magn\xE9\
+    tique transcr\xE2nienne pour le traitement de la d\xE9pression chez les personnes\
+    \ \xE2g\xE9es"
+  authors:
+  - "Katharina G\xF6ke"
+  - Shawn M. McClintock
+  - Linda Mah
+  - Tarek K. Rajji
+  - Hyewon H. Lee
+  - Sean M. Nestor
+  - Jonathan Downar
+  - Yoshihiro Noda
+  - Zafiris J. Daskalakis
+  - Benoit H. Mulsant
+  - Daniel M. Blumberger
+  publisher: The Canadian Journal of Psychiatry
+  date: '2025-01-29'
+  link: https://doi.org/hb77b8
+  plugin: sources.py
+  file: sources.yaml

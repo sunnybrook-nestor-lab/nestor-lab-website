@@ -59,7 +59,7 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - Advanced-Neuromodulation
+  - Late-Life-Depression
 - id: doi:10.1016/j.psychres.2024.116125
   title: 'IN Esketamine and IV Ketamine: Results of a multi-site observational study
     assessing the effectiveness and tolerability of two novel therapies for treatment-resistant
@@ -509,7 +509,7 @@
   date: '2025-11-01'
   link: https://doi.org/hb77bx
   tags:
-  - Advanced-Neuromodulation
+  - Late-Life-Depression
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41398-025-03728-2
@@ -562,7 +562,7 @@
   date: '2025-09-23'
   link: https://doi.org/hb77b2
   tags:
-  - Advanced-Neuromodulation
+  - Post-Concussion
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ajmg.b.33038
@@ -607,8 +607,6 @@
   publisher: The Canadian Journal of Psychiatry
   date: '2025-05-30'
   link: https://doi.org/hb77b4
-  tags:
-  - Advanced-Neuromodulation
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s00787-025-02683-z
@@ -624,8 +622,6 @@
   publisher: European Child &amp; Adolescent Psychiatry
   date: '2025-02-28'
   link: https://doi.org/hb77b5
-  tags:
-  - Advanced-Neuromodulation
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1177/20420986251347360
@@ -693,6 +689,6 @@
   date: '2025-01-29'
   link: https://doi.org/hb77b8
   tags:
-  - Advanced-Neuromodulation
+  - Late-Life-Depression
   plugin: sources.py
   file: sources.yaml

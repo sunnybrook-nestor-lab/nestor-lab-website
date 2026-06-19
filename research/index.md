@@ -56,6 +56,7 @@ By mapping how the circuit engages during stimulation, the study aims to explain
 ### Relevant Publications
 
 {% include list.html data="citations" component="citation" filter="tags && tags.include?('Causal-Brain-Mapping')" %}
+
 {% include section.html %}
 
 ## Advanced Neuromodulation Trials
@@ -70,6 +71,10 @@ ACT-LLD asks a simple question: can we deliver the same treatment far more quick
 
 ACT-LLD is a randomized trial led by the Centre for Addiction and Mental Health (CAMH), conducted with the Harquail Centre for Neuromodulation at Sunnybrook and funded by the Canadian Institutes of Health Research (CIHR).
 
+### Relevant Publications
+
+{% include list.html data="citations" component="citation" filter="tags && tags.include?('Late-Life-Depression')" %}
+
 ### PCS: Brain stimulation for persistent concussion symptoms
 
 Most people recover from a concussion within weeks, but some are left with lasting problems — trouble concentrating, low mood, fatigue, and headaches — known as post-concussion syndrome. Treatment options are limited.
@@ -80,7 +85,8 @@ Because this is an early-stage pilot, everyone receives active treatment, and th
 
 ### Relevant Publications
 
-{% include list.html data="citations" component="citation" filter="tags && tags.include?('Advanced-Neuromodulation')" %}
+{% include list.html data="citations" component="citation" filter="tags && tags.include?('Post-Concussion')" %}
+
 {% include section.html %}
 
 ## Psychedelics Platform (EMBRACE)

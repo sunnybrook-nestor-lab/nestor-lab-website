@@ -20,7 +20,7 @@ We are looking for individuals with treatment-resistant depression to participat
 **You may be eligible if you:**
 - Are between 18–65 years old
 - Have been diagnosed with major depressive disorder
-- Have not responded adequately to at least one antidepressant trial
+- Have depression that hasn't responded to at least one adequate antidepressant trial, or that you haven't been able to tolerate
 
 **What participation involves:**
 - _Details to be confirmed by study coordinator_

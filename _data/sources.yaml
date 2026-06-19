@@ -17,24 +17,20 @@
 - id: doi:10.1016/j.jad.2025.120390       # Sewell 2026, patient-centered DBS outcomes in PTSD
 - id: doi:10.1016/j.brs.2025.10.020       # Adler 2025, trajectories of bilateral rTMS in LLD
   tags:
-    - Advanced-Neuromodulation
+    - Late-Life-Depression
 - id: doi:10.1038/s41398-025-03728-2      # Wiseman 2025, speech measures & depression
 - id: doi:10.1038/s44220-025-00503-6      # Mollica 2025, network basis of post-concussion symptoms
   tags:
-    - Advanced-Neuromodulation
+    - Post-Concussion
 - id: doi:10.1002/ajmg.b.33038            # Franklin 2025, genetics of ECT/TMS/ketamine response
 - id: doi:10.1177/07067437251342277       # Ng 2025, comorbid PTSD & rTMS for depression
-  tags:
-    - Advanced-Neuromodulation
 - id: doi:10.1007/s00787-025-02683-z      # Ng 2025, dTMS/iTBS youth vs adults
-  tags:
-    - Advanced-Neuromodulation
 - id: doi:10.1177/20420986251347360       # Gutierrez 2025, esketamine abuse liability
 - id: doi:10.1192/j.eurpsy.2025.10049     # Lee 2025, rTMS/TBS & suicidal ideation in LLD
   tags:
-    - Advanced-Neuromodulation
+    - Late-Life-Depression
 - id: doi:10.3389/fpsyt.2025.1565881      # Mirjalili 2025, tACS theta-gamma in MCI
 - id: doi:10.1016/j.biopsych.2025.03.014  # Vasileiadi 2025, brain network dysfunction in AD
 - id: doi:10.1177/07067437251315515       # Göke 2025, cognitive outcomes after TMS in LLD
   tags:
-    - Advanced-Neuromodulation
+    - Late-Life-Depression

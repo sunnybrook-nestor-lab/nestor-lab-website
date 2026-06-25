@@ -1,8 +1,8 @@
 ---
-name: Christina Nona, MD
+name: Christina Nona, MD, PhD
 image: images/placeholder-portrait.jpg
 role: clinical fellow
-description: Clinical Fellow
+description: Psychiatry Resident
 links:
   email: ""
 ---

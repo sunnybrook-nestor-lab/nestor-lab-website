@@ -1,7 +1,7 @@
 ---
 name: Trisha Menon
 image: images/placeholder-portrait.jpg
-role: programmer
+role: research support
 description: Research Coordinator
 links:
   email: ""

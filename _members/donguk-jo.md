@@ -1,7 +1,7 @@
 ---
 name: Donguk Jo
 image: images/placeholder-portrait.jpg
-role: programmer
+role: research support
 description: Lab Manager
 links:
   email: ""

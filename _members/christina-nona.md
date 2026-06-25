@@ -1,5 +1,5 @@
 ---
-name: Christina Nona
+name: Christina Nona, MD
 image: images/placeholder-portrait.jpg
 role: clinical fellow
 description: Clinical Fellow

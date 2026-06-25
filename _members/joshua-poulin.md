@@ -2,7 +2,7 @@
 name: Joshua Poulin
 image: images/placeholder-portrait.jpg
 role: grad
-description: Master's Student
+description: MSc Student, Institute of Medical Science
 links:
   email: ""
 ---

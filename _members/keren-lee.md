@@ -5,4 +5,4 @@ role: undergrad
 description: Undergraduate Research Student
 ---
 
-_Bio to be written by Keren._
+

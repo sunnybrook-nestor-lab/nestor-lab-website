@@ -5,4 +5,4 @@ role: undergrad
 description: Summer Student
 ---
 
-_Bio to be written by Jake._
+

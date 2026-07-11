@@ -5,4 +5,4 @@ role: grad
 description: PhD Student, Institute of Medical Science
 ---
 
-_Bio to be written by Christopher._
+

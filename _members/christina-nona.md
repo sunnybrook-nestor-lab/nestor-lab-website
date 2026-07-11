@@ -5,4 +5,4 @@ role: clinical fellow
 description: Psychiatry Resident
 ---
 
-_Bio to be written by Christina._
+

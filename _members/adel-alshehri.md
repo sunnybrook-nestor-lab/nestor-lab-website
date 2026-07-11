@@ -5,4 +5,4 @@ role: clinical fellow
 description: Clinical Fellow
 ---
 
-_Bio to be written by Dr. Alshehri._
+

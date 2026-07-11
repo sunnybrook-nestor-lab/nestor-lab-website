@@ -5,4 +5,4 @@ role: grad
 description: MSc Student, Institute of Medical Science
 ---
 
-_Bio to be written by Zaki._
+

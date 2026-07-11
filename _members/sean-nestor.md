@@ -13,4 +13,4 @@ links:
   orcid: 0000-0002-8848-5027
 ---
 
-_Bio to be written by Dr. Nestor._
+

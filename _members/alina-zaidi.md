@@ -1,4 +1,3 @@
-# _members/alina-zaidi.md
 ---
 name: Alina Zaidi
 image: images/placeholder-portrait.jpg

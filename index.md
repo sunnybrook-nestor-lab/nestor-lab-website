@@ -35,11 +35,10 @@ _Research statement placeholder — to be written by Dr. Nestor._
 
 ## Funding & Acknowledgements
 
-_We are grateful to the agencies and organizations that support and fund our research._
-{:.center}
+We gratefully acknowledge the funders and partners who make our research possible, including the Baszucki Group, the Canadian Institutes of Health Research (CIHR), and the Sunnybrook Foundation. Our studies are carried out at the Harquail Centre for Neuromodulation, Sunnybrook Research Institute, University of Toronto.
+   {:.center}
 
-_Funding logos to be added._
-{:.center}
+   <!-- TODO: add funder logos once Dr. Nestor confirms the full list + we have official brand assets -->
 
 {% include section.html %}
 

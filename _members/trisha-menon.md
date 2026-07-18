@@ -2,7 +2,7 @@
 name: Trisha Menon
 image: images/placeholder-portrait.jpg
 role: research support
-description: Research Coordinator
+description: Research Technician
 ---
 
 

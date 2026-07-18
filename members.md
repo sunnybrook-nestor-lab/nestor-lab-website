@@ -1,8 +1,8 @@
-# _members/alina-zaidi.md
+# _members/alyssa-pejkovic.md
 ---
-name: Alina Zaidi
+name: Alyssa Pejkovic
 image: images/placeholder-portrait.jpg
 role: grad
-description: MSc Student, 2023–2025
+description: MHSc Student, 2023–2024
 alumni: true
 ---

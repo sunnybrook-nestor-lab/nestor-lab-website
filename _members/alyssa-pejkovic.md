@@ -1,4 +1,3 @@
-# _members/alyssa-pejkovic.md
 ---
 name: Alyssa Pejkovic
 image: images/placeholder-portrait.jpg

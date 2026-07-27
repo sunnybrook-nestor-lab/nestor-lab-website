@@ -73,4 +73,9 @@
   display: none;
 }
 
+.portrait-affiliation {
+  color: var(--gray);
+  font-size: 0.9em;
+}
+
 /*# sourceMappingURL=portrait.css.map */

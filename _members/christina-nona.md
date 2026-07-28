@@ -6,6 +6,7 @@ description: Psychiatry Resident
 affiliation: MD, PhD
 links:
   email: christina.nona@mail.utoronto.ca
+  pubmed: 1rEQbMVyc9rExe
 ---
 
 Dr. Christina Nona completed her PhD in the Department of Pharmacology and Toxicology at the University of Toronto, where she investigated neuroplastic adaptations within the brain's reward circuitry associated with chronic alcohol exposure. Using rodent models, her research examined the neuromodulatory mechanisms underlying addictive and relapse-like behaviours, contributing to our understanding of individual differences in vulnerability to alcohol use disorder.

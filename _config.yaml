@@ -15,7 +15,7 @@ proofer: false
 links:
   email: sean.nestor@sunnybrook.ca
   orcid: 0000-0002-8848-5027
-  google-scholar: "https://scholar.google.com/citations?hl=en&user=2KMsBx4AAAAJ&view_op=list_works&sortby=pubdate"
+  google-scholar: 2KMsBx4AAAAJ
   github: sunnybrook-nestor-lab
 
 ### Jekyll settings (do not edit below unless you know what you're doing)

@@ -7,6 +7,12 @@ nav:
 
 # Team
 
+{% include figure.html
+   image="images/lab-social-2026-08.jpg"
+   caption="Lab social event, August 2026"
+   width="100%"
+%}
+
 {% include section.html %}
 
 ## Principal Investigator

@@ -29,7 +29,12 @@ _Research statement placeholder — to be written by Dr. Nestor._
 
 ## Our Team
 
-[Meet our team](team){:.center}
+{% include figure.html
+   image="images/lab-social-2026-08.jpg"
+   link="team"
+   caption="Team social, August 2026. Left to right: Jake, Trisha, Enrique, Nidhi, Maria, Sean, Joshua, Zaki."
+   width="100%"
+%}
 
 {% include section.html %}
 

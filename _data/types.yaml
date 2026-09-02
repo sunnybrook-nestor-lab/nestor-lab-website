@@ -34,6 +34,10 @@ research support:
   icon: fa-solid fa-user-gear
   description: Research Staff
 
+research associate:
+  icon: fa-solid fa-flask
+  description: Research Associate
+
 clinical fellow:
   icon: fa-solid fa-user-doctor
   description: Clinical Fellow

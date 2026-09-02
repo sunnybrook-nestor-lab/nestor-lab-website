@@ -3,7 +3,7 @@ name: Sean Nestor
 image: images/placeholder-portrait.jpg
 role: pi
 description: Principal Investigator
-affiliation: HBSc, MSc, MD, PhD
+affiliation: BHSc, MSc, MD, PhD
 aliases:
   - S Nestor
   - S. Nestor

@@ -21,9 +21,9 @@ nav:
 
 {% include section.html %}
 
-## Postdoctoral Fellows
+## Postdoctoral Fellows & Research Associates
 
-{% include list.html data="members" component="portrait" filter="role == 'postdoc' and !alumni" %}
+{% include list.html data="members" component="portrait" filter="(role == 'postdoc' || role == 'research associate') && !alumni" %}
 
 {% include section.html %}
 

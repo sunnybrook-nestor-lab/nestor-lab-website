@@ -1,6 +1,6 @@
 ---
 name: Adel Alshehri
-image: images/fallback.svg
+image: images/adel-alshehri.jpeg
 role: clinical fellow
 description: Clinical Fellow
 affiliation: MBBS
